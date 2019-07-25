@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mairechew/deploy-react/static/css/main.2cce8147.chunk.css",
+    "main.js": "/mairechew/deploy-react/static/js/main.c93049d1.chunk.js",
+    "main.js.map": "/mairechew/deploy-react/static/js/main.c93049d1.chunk.js.map",
+    "runtime~main.js": "/mairechew/deploy-react/static/js/runtime~main.74dfc76f.js",
+    "runtime~main.js.map": "/mairechew/deploy-react/static/js/runtime~main.74dfc76f.js.map",
+    "static/js/2.b41502e9.chunk.js": "/mairechew/deploy-react/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/mairechew/deploy-react/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/mairechew/deploy-react/index.html",
+    "precache-manifest.c791eca53642241a016c80e2d722bafe.js": "/mairechew/deploy-react/precache-manifest.c791eca53642241a016c80e2d722bafe.js",
+    "service-worker.js": "/mairechew/deploy-react/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/mairechew/deploy-react/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/mairechew/deploy-react/static/media/logo.5d5d9eef.svg"
+  }
+}
